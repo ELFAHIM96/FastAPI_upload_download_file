@@ -1,0 +1,7 @@
+student:
+- id: '01'
+  lastname: Price
+  name: Tom
+- id: '02'
+  lastname: Thameson
+  name: Nick
